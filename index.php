@@ -9,7 +9,7 @@ error_reporting(0);
 <html lang="en">
 <head>
 
-<title>Car Rental Portal</title>
+<title>Vehicles Rental Portal</title>
 <!--Bootstrap -->
 <link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css">
 <link rel="stylesheet" href="assets/css/style.css" type="text/css">
@@ -132,7 +132,7 @@ foreach($results as $result)
         <div class="fun-facts-m">
           <div class="cell">
             <h2><i class="fa fa-car" aria-hidden="true"></i>1200+</h2>
-            <p>New Cars For Sale</p>
+            <p>New Vechiles For Sale</p>
           </div>
         </div>
       </div>
@@ -140,7 +140,7 @@ foreach($results as $result)
         <div class="fun-facts-m">
           <div class="cell">
             <h2><i class="fa fa-car" aria-hidden="true"></i>1000+</h2>
-            <p>Used Cars For Sale</p>
+            <p>Used Vechiles For Sale</p>
           </div>
         </div>
       </div>

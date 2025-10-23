@@ -117,7 +117,7 @@ foreach($results as $result)
       <aside class="col-md-3 col-md-pull-9">
         <div class="sidebar_widget">
           <div class="widget_heading">
-            <h5><i class="fa fa-filter" aria-hidden="true"></i> Find Your  Car </h5>
+            <h5><i class="fa fa-filter" aria-hidden="true"></i> Find Your  Vehicles </h5>
           </div>
           <div class="sidebar_filter">
             <form action="search-carresult.php" method="post">
@@ -149,7 +149,7 @@ foreach($results as $result)
               </div>
              
               <div class="form-group">
-                <button type="submit" class="btn btn-block"><i class="fa fa-search" aria-hidden="true"></i> Search Car</button>
+                <button type="submit" class="btn btn-block"><i class="fa fa-search" aria-hidden="true"></i> Search Vehicles</button>
               </div>
             </form>
           </div>
@@ -157,7 +157,7 @@ foreach($results as $result)
 
         <div class="sidebar_widget">
           <div class="widget_heading">
-            <h5><i class="fa fa-car" aria-hidden="true"></i> Recently Listed Cars</h5>
+            <h5><i class="fa fa-car" aria-hidden="true"></i> Recently Listed Vehicles</h5>
           </div>
           <div class="recent_addedcars">
             <ul>

@@ -13,7 +13,7 @@ else{
 <html lang="en">
 <head>
 
-<title>Car Rental Portal | My Testimonials </title>
+<title>Vehicles Rental Portal | My Testimonials </title>
 <!--Bootstrap -->
 <link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css">
 <!--Custome Style -->

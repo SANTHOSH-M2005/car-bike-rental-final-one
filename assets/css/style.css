@@ -783,6 +783,7 @@ table thead th, table thead td {
 .logo {
   float:left;
 } 
+
 .navbar-default .navbar-toggle:focus .icon-bar, .navbar-default .navbar-toggle:hover .icon-bar {
 	background:#fff;
 }
