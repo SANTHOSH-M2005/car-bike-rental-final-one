@@ -43,7 +43,7 @@ error_reporting(0);
 <!-- /Header --> 
 
 <!-- Banners -->
-<section id="banner" class="banner-section">
+<!-- <section id="banner" class="banner-section">
   <div class="container">
     <div class="div_zindex">
       <div class="row">
@@ -56,7 +56,7 @@ error_reporting(0);
       </div>
     </div>
   </div>
-</section>
+</section> -->
 <!-- /Banners --> 
 
 

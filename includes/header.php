@@ -4,7 +4,13 @@
     <div class="container">
       <div class="row">
         <div class="col-sm-3 col-md-2">
-          <div class="logo"> <a href="index.php"><img src="assets/images/logo.png" alt="image"/></a> </div>
+         <div class="logo" style="display: flex; align-items: center; gap: 8px;">
+  <a href="index.php" style="display: flex; align-items: center; text-decoration: none;">
+    <img src="assets/images/bike-rent.jpg" alt="image" style="width:50px; height:50px; border-radius:8px;" />
+    <span style="font-size:15px; font-weight:bold; color:blue; margin-left:8px;">Rental Platform</span>
+  </a>
+</div>
+
         </div>
         <div class="col-sm-9 col-md-10">
           <div class="header_info">
